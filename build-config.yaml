@@ -1,0 +1,16 @@
+
+Assembly:
+    Company : "Heartysoft Solutions Limited"
+    Version : "0.0.1"
+    PreRelease: "alpha" #empty for release version. Informational version (and so nuget) will be Version-PrePrelease / Version
+
+Nuget:
+    ConfigTransform:
+      id: config-transform
+      title: config-transform
+      authors: [Ashic Mahtab]
+      owners: Ashic Mahtab
+      description: Simple command line exe to apply web config style transforms to arbitrary xml files.
+      summary: Simple command line exe to apply web config style transforms to arbitrary xml files.
+      tags: config, tokenize
+
