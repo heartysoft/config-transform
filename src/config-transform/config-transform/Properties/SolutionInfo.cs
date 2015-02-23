@@ -5,7 +5,7 @@ using System.Reflection;
 [assembly: AssemblyInformationalVersionAttribute("0.0.1-alpha")]
 [assembly: AssemblyCompanyAttribute("Heartysoft Solutions Limited")]
 [assembly: AssemblyCopyrightAttribute("Copyright © Heartysoft Solutions Limited 2015")]
-[assembly: AssemblyMetadataAttribute("githash","master-8527f0")]
+[assembly: AssemblyMetadataAttribute("githash","master-02bbe5")]
 namespace System {
     internal static class AssemblyVersionInformation {
         internal const string Version = "0.0.1";
